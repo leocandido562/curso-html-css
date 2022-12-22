@@ -1,0 +1,34 @@
+1# O primeiro passo é planejar o site
+
+    * O planejamento começa com o Briefing (Documento que armazena as informações do cliente, estratégias, etc.).
+
+    -> Objetivos do site
+    -> Necessidades do visitante(público alvo)
+
+    * SEO: Conjunto de técnicas que visa posicionar o site nos primeiros resultados do mecanismo de busca do navegador.
+
+        -> Palavras chaves
+
+    * Experiência do usuário e interface do usuário (ux/ui)
+
+        -> Priorizar o celular no desenvolvimento do site
+
+    * Wireframe: Representação visual da estrutura básica de uma página.
+
+        -> Usar draw.io
+
+    * Tipografia: importar fontes.
+
+    * Cores: é importante definir as cores que serão usadas no site.
+
+        -> O google tem uma ferramenta para isso
+
+    * Imagens: selecionar as imagens que serão usadas.
+
+        -> Direitos autorais
+
+        -> Imagens leves (kbs)
+
+        -> Usar sites para compactar e pegar sem direitos autorais
+
+    * Estrutura de pastas: Organizar as pastas.
