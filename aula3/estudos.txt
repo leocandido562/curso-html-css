@@ -1,0 +1,1 @@
+1# Ao criar um repositóeio, selecionar README e license MIT
