@@ -1,1 +1,3 @@
-1# Ao criar um repositóeio, selecionar README e license MIT
+1# Ao criar um repositóeio, selecionar README e license MIT.
+
+2# O github tem uma ferramenta chamada projects que serve de quadro de notas para organizar o projeto.
