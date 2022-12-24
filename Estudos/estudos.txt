@@ -35,11 +35,13 @@
 
     * Estrutura de pastas: Organizar as pastas.
 
+
 <-- AULA 3 -->
 
 1# Ao criar um repositóeio, selecionar README e license MIT.
 
 2# O github tem uma ferramenta chamada projects que serve de quadro de notas para organizar o projeto.
+
 
 <-- AULA 5 -->
 
@@ -48,3 +50,8 @@
     1* Um bom domínio
     2* Título (Tag title) -> palavras chaves
     3* Descrição do site (meta tag de nome description) -> palavras chaves e resumo
+
+
+<-- AULA 6 -->
+
+1# Validar o código pelo W3C
