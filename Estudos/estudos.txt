@@ -55,3 +55,11 @@
 <-- AULA 6 -->
 
 1# Validar o código pelo W3C
+
+
+<-- AULA 7 -->
+
+1# media query
+
+    * Começar pelo celular
+    * Modo Portrait(retrato) e Landscape(paisagem)
