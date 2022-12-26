@@ -63,3 +63,30 @@
 
     * Começar pelo celular
     * Modo Portrait(retrato) e Landscape(paisagem)
+    * Sintaxe -> @media (min-width: 576px){
+                    body {
+                        background-color: aqua;
+                    }
+                 }
+
+
+<-- AULA 8 -->
+
+1# Tags Semânticas -> SEO
+
+    *header -> cabeçalho
+    *nav    -> menus
+    *main   -> conteúdo principal (1 por página)
+    *section-> agrupamento de conteúdos relacionados
+    *article-> artigos, comentários, widget
+    *aside  -> side bar
+    *footer -> rodapé
+
+2# Heading Tags -> SEO
+
+    * h1 (1 por página)
+    * h2
+    * h3
+    * h4
+    * h5
+    * h6
