@@ -112,3 +112,33 @@
     2* Centralizar os containers(margin: 0 auto;).
     
     3* Ajustar em cada media query a largura máxima do container de forma que fique um pouco menor do que a largura mínima da media query.
+
+
+<-- AULA 11 -->
+
+1# O menu do cabeçalho
+
+    * No mobile, ele tem que ser escondido
+    * Já no pc ele pode ficar exposto
+
+    ** Ao usar o símbolo para o menu mobile, usar código do site The unicode standard para garantir uma maior compatibilidade.
+
+
+<-- AULA 12 -->
+
+1# position: fixed; -> aceita top, bottom, right e left para posicionar as coisas.
+
+
+<-- AULA 13 -->
+
+1# CSS flexbox
+
+    1* definir um container
+
+    * justify content (padrão = flex-start)
+        - flex-start
+        - flex-end
+        - center
+        - space-between
+        - space-around(espaço ao redor)
+        - space-evenly(espaço proporcional)
