@@ -142,3 +142,19 @@
         - space-between
         - space-around(espaço ao redor)
         - space-evenly(espaço proporcional)
+
+
+<-- AULA 14 -->
+
+1# Um menu para celular que aparece e desaparece
+
+    * O menu é feito com uma lista (ul) e um checkbox com label (símbolo).
+    * O position da ul tem que ser fixed para aceitar top,bottom,right e left e se sobrepor ao resto da página.
+    * A ul recebe right: -100%; (fica escondida fora da tela).
+    * O check box recebe identificador:check ~ ul que recebe right: 0;
+    * identificador:check ~ ul -> modifica a propriedade right do ul ao ser clicado.
+
+2# O menu de pc
+
+    * na media query, esconder o símbolo do menu mobile com display: none;
+    * na media query, trocar o position da ul para static(padrão), dessa forma ele ignora top,bottom,right e left do menu mobile.
